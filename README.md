@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Adrian (@generalustelaru)
-- 👀 I’m mostly interested in web development, but I like all sorts of code.
-- 🌱 I’m currently a code foot soldier.
+- 👋 Hi, I’m Adrian, 
+- 👀 I’m mostly interested in web development, but I like real programming as well.
+- 📎I’m currently part of a team maintaining an extremely coupled legacy PHP codebase, expanding it the right way (hopefully).    
 
 - 📫 How to reach me: adrianpope@proton.me
 
