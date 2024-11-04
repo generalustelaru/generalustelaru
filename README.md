@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adrian, 
 - 👀 I’m mostly interested in web development, but I like real programming as well.
-- 📎I’m currently part of a team maintaining an extremely coupled legacy PHP codebase, expanding it the right way (hopefully).    
+- 📎I recently left a contract project and currently catching up on my little [board game implementation](https://github.com/generalustelaru/ophir-2d).     
 
 - 📫 How to reach me: adrianpope@proton.me
 
