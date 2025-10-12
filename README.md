@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adrian, 
 - 👀 I’m mostly interested in web development, but I like real programming as well.
-- 📎I recently switched projects and had some time to catch up on [Ophir 2D](https://github.com/generalustelaru/ophir-2d)--my little board game implementation. Check it out if you're not afraid to install some dependencies. Or try out my older works: [Depth Dodger](https://github.com/generalustelaru/depth-dodger) and [Super Nibbler](https://github.com/generalustelaru/super-nibbler)
+- 📎I'm currently in a sabbatical, catching up on [Ophir 2D](https://github.com/generalustelaru/ophir-2d)--my little board game implementation. Check it out if you're not afraid to install some dependencies. Or try out my older works: [Depth Dodger](https://github.com/generalustelaru/depth-dodger) and [Super Nibbler](https://github.com/generalustelaru/super-nibbler)
 
 - 📫 How to reach me: adrianpope@proton.me
 
